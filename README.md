@@ -43,7 +43,7 @@ If useful, buy me a coffee?
 
 ## Log
 
-You can check the logs in log.txt, it will look like:
+You can check the logs in log.txt, it will looks like:
 
     [20200928 22:53:30 INFO    ] API Set Up Success
     [20200928 22:53:30 INFO    ] SRMS Balances Check
