@@ -22,11 +22,11 @@ If useful, buy me a coffee?
 
 ## Installation
 
-1. Clone the repo
+Clone the repo
 
     $ git clone https://github.com/LeeChunHao2000/ftx-srm-auto-staker.git
-    
-2. Download the [exe file](https://github.com/LeeChunHao2000/ftx-srm-auto-staker/raw/master/SRM-Auto-Staker.exe)
+
+Download the [exe file](https://github.com/LeeChunHao2000/ftx-srm-auto-staker/raw/master/SRM-Auto-Staker.exe)
 
 ## Quickstart
 
