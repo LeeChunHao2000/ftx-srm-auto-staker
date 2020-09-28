@@ -22,19 +22,19 @@ If useful, buy me a coffee?
 
 ## Installation
 
-Clone the repo
+1.Clone the repo
 
-    $ git clone https://github.com/LeeChunHao2000/ftx-srm-auto-staker.git
+    $ git clone https://github.com/LeeChunHao2000/ftx-srm-auto-staker
 
-Download the [exe file](https://github.com/LeeChunHao2000/ftx-srm-auto-staker/raw/master/SRM-Auto-Staker.exe)
+2.Download the [exe file](https://github.com/LeeChunHao2000/ftx-srm-auto-staker/raw/master/SRM-Auto-Staker.exe)
 
 ## Quickstart
 
-1. Python
+1.Python
     $ python main.py
     > Set up your API Key: Put your API Key here
     > Set up your API Secret: Put your API Secret here
-2. EXE File
+2.EXE File
     > Set up your API Key: Put your API Key here
     > Set up your API Secret: Put your API Secret here
 
