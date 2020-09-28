@@ -30,11 +30,11 @@ If useful, buy me a coffee?
 
 1. Python
     $ python main.py
-    > Set up your API Key: <Put your API Key here>
-    > Set up your API Secret: <Put your API Secret here>
+    > Set up your API Key: Put your API Key here
+    > Set up your API Secret: Put your API Secret here
 2. EXE File
-    > Set up your API Key: <Put your API Key here>
-    > Set up your API Secret: <Put your API Secret here>
+    > Set up your API Key: Put your API Key here
+    > Set up your API Secret: Put your API Secret here
 
 ## Log
 
