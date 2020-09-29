@@ -40,11 +40,6 @@ If useful, buy me a coffee?
 
     >> Set up your API Key: Put your API Key here
     >> Set up your API Secret: Put your API Secret here
-    
-## Contributor
-
-LeeChunHao
-YunLin(Shark-yun), collin61514@gmail.com
 
 ## Log
 
@@ -53,10 +48,7 @@ You can check the logs in log.txt, it looks like:
     [20200928 22:53:30 INFO    ] API Set Up Success
     [20200928 22:53:30 INFO    ] SRMS Balances Check
 
-## Screen Shot
+## Contributor
 
-    
-
-
-
-
+1. Lee Chun Hao
+2. un Lin (Shark-yun), collin61514@gmail.com
