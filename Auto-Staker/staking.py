@@ -3,8 +3,8 @@ import sys, logging
 from FTX.client import Client
 
 logging.basicConfig(
-    handlers=[logging.StreamHandler(sys.stdout), logging.FileHandler('log.txt')],
-    level=logging.INFO,
+    handlers = [logging.StreamHandler(sys.stdout), logging.FileHandler('log.txt')],
+    level = logging.INFO,
 	format = '[%(asctime)s %(levelname)-8s] %(message)s',
 	datefmt = '%Y%m%d %H:%M:%S',
 	)
