@@ -48,6 +48,8 @@ You can check the logs in log.txt, it looks like:
     [20200928 22:53:30 INFO    ] API Set Up Success
     [20200928 22:53:30 INFO    ] SRMS Balances Check
 
+## Screen Shot
+
     
 
 
