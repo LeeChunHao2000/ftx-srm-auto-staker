@@ -51,4 +51,4 @@ You can check the logs in log.txt, it looks like:
 ## Contributor
 
 1. Lee Chun Hao
-2. un Lin (Shark-yun), collin61514@gmail.com
+2. Yun Lin (Shark-yun), collin61514@gmail.com
